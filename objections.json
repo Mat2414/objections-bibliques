@@ -1320,7 +1320,7 @@
     "BIJBELTEKST 1": "Jesaja 41:10",
     "GEDACHTE 1": "God ondersteunt zijn dienaren",
     "BIJBELTEKST 2": "Psalm 55:22",
-    "GEDACHTE 2": "Leg uw lasten op Jehovah",
+    "GEDACHTE 2": "Jehovah nodigt mensen uit hun lasten op hem te werpen"
     "OVERGANG": "Is er verschil tussen zich verlaten voelen en werkelijk verlaten zijn?",
     "DOEL": "De pijn laten verwoorden.",
     "VALKUIL": "De gevoelens tegenspreken."
@@ -1495,18 +1495,18 @@
     "VALKUIL": "Doen alsof we overal een antwoord op hebben."
   },
   {
-    "ID": 116,
-    "THEMA": "Waarheid",
-    "BEZWAAR": "Jullie zijn niet beter dan anderen",
-    "HOOFDVRAAG": "Zijn er eigenlijk perfecte mensen?",
-    "BIJBELTEKST 1": "Romeinen 3:23",
-    "GEDACHTE 1": "Iedereen zondigt",
-    "BIJBELTEKST 2": "Mattheüs 7:16",
-    "GEDACHTE 2": "Kijk naar de vruchten",
-    "OVERGANG": "Moeten we een boodschap beoordelen op basis van de inhoud of alleen op basis van de boodschapper?",
-    "DOEL": "De aandacht op de leer richten.",
-    "VALKUIL": "Superioriteit uitstralen."
-  },
+  "ID": 116,
+  "THEMA": "Waarheid",
+  "BEZWAAR": "Niemand kan de waarheid kennen",
+  "HOOFDVRAAG": "Als waarheid niet kenbaar is, hoe kunnen we dan zeker zijn van die conclusie?",
+  "BIJBELTEKST 1": "Johannes 17:17",
+  "GEDACHTE 1": "Gods Woord is waarheid",
+  "BIJBELTEKST 2": "Handelingen 17:11",
+  "GEDACHTE 2": "Waarheid kan onderzocht worden",
+  "OVERGANG": "Zou het eerlijk zijn eerst het bewijsmateriaal te onderzoeken?",
+  "DOEL": "De mogelijkheid van objectieve waarheid onderzoeken.",
+  "VALKUIL": "In abstracte filosofische discussies blijven hangen."
+}
   {
     "ID": 117,
     "THEMA": "Waarheid",

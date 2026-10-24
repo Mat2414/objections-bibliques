@@ -1,0 +1,4 @@
+const themes=[
+{id:1,thema:"Waarheid"},{id:2,thema:"Bijbel"},{id:3,thema:"God"},{id:4,thema:"Ziekte en lijden"},{id:5,thema:"Jezus Christus"},{id:6,thema:"Kerk en religie"},{id:7,thema:"Leerstellingen"},{id:8,thema:"Koninkrijk van God"},{id:9,thema:"Religieuze teleurstelling"},{id:10,thema:"Gebed"},{id:11,thema:"Algemene bezwaren"},{id:12,thema:"Vertrouwen en waarden"},{id:13,thema:"Wetenschap"},{id:14,thema:"Emotionele pijn"}];
+const g=document.getElementById('grid'); const r=document.getElementById('result');
+themes.forEach(t=>{let b=document.createElement('button');b.className='btn';b.textContent=t.thema;b.onclick=()=>{r.innerHTML=`<div class="card"><h2>${t.thema}</h2><p>Open in Excel de bezwaren die aan dit thema gekoppeld zijn.</p></div>`};g.appendChild(b);});

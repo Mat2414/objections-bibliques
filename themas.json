@@ -1,0 +1,212 @@
+[
+  {
+    "ID": 1,
+    "THEMA": "Veiligheid",
+    "SOUS-THEMES": "Criminalité; Violence; Agressions; Insécurité",
+    "VERSETS CLES": "Psalm 37:29; Jesaja 32:18",
+    "IDEE CENTRALE": "Dieu promet un monde sûr"
+  },
+  {
+    "ID": 2,
+    "THEMA": "Ziekte",
+    "SOUS-THEMES": "Maladie; Handicap; Santé mentale",
+    "VERSETS CLES": "Openbaring 21:3-4; Jesaja 33:24",
+    "IDEE CENTRALE": "La maladie ne fait pas partie du projet définitif de Dieu"
+  },
+  {
+    "ID": 3,
+    "THEMA": "Dood",
+    "SOUS-THEMES": "Peur de mourir; Après la mort",
+    "VERSETS CLES": "Johannes 11:25; Johannes 5:28-29",
+    "IDEE CENTRALE": "Espérance de résurrection"
+  },
+  {
+    "ID": 4,
+    "THEMA": "Rouw",
+    "SOUS-THEMES": "Perte d’un proche",
+    "VERSETS CLES": "Psalm 34:18; Handelingen 24:15",
+    "IDEE CENTRALE": "Dieu comprend le deuil"
+  },
+  {
+    "ID": 5,
+    "THEMA": "Eenzaamheid",
+    "SOUS-THEMES": "Isolement; Rejet",
+    "VERSETS CLES": "Psalm 68:6; Hebreeën 13:5",
+    "IDEE CENTRALE": "Dieu prend soin des personnes seules"
+  },
+  {
+    "ID": 6,
+    "THEMA": "Angst",
+    "SOUS-THEMES": "Anxiété; Inquiétude",
+    "VERSETS CLES": "Jesaja 41:10; Filippenzen 4:6-7",
+    "IDEE CENTRALE": "Dieu donne paix et courage"
+  },
+  {
+    "ID": 7,
+    "THEMA": "Stress",
+    "SOUS-THEMES": "Pression; Burn-out",
+    "VERSETS CLES": "Mattheüs 11:28-30; Filippenzen 4:6-7",
+    "IDEE CENTRALE": "Dieu procure du soulagement"
+  },
+  {
+    "ID": 8,
+    "THEMA": "Depressie",
+    "SOUS-THEMES": "Découragement; Désespoir",
+    "VERSETS CLES": "Romeinen 15:13; Psalm 42:11",
+    "IDEE CENTRALE": "Dieu est la source de l’espérance"
+  },
+  {
+    "ID": 9,
+    "THEMA": "Onrecht",
+    "SOUS-THEMES": "Corruption; Violence",
+    "VERSETS CLES": "Prediker 3:16-17; Psalm 37:10-11",
+    "IDEE CENTRALE": "Dieu restaurera la justice"
+  },
+  {
+    "ID": 10,
+    "THEMA": "Oorlog",
+    "SOUS-THEMES": "Conflits; Terrorisme",
+    "VERSETS CLES": "Jesaja 2:4; Daniël 2:44",
+    "IDEE CENTRALE": "Le Royaume mettra fin aux guerres"
+  },
+  {
+    "ID": 11,
+    "THEMA": "Toekomst",
+    "SOUS-THEMES": "Incertitude; Avenir",
+    "VERSETS CLES": "Jeremia 29:11; Openbaring 21:3-4",
+    "IDEE CENTRALE": "Dieu offre un avenir plein d’espérance"
+  },
+  {
+    "ID": 12,
+    "THEMA": "Kinderen",
+    "SOUS-THEMES": "Éducation; Protection",
+    "VERSETS CLES": "Mattheüs 19:14; Deuteronomium 6:6-7",
+    "IDEE CENTRALE": "Les enfants sont précieux pour Dieu"
+  },
+  {
+    "ID": 13,
+    "THEMA": "Gezin",
+    "SOUS-THEMES": "Relations familiales",
+    "VERSETS CLES": "Kolossenzen 3:13-14; Efeziërs 5:33",
+    "IDEE CENTRALE": "Les principes bibliques renforcent la famille"
+  },
+  {
+    "ID": 14,
+    "THEMA": "Huwelijk",
+    "SOUS-THEMES": "Fidélité; Communication",
+    "VERSETS CLES": "Mattheüs 19:6; Efeziërs 5:28",
+    "IDEE CENTRALE": "Le mariage est précieux"
+  },
+  {
+    "ID": 15,
+    "THEMA": "Werk",
+    "SOUS-THEMES": "Emploi; Satisfaction",
+    "VERSETS CLES": "Prediker 3:13; Kolossenzen 3:23",
+    "IDEE CENTRALE": "Le travail peut avoir du sens"
+  },
+  {
+    "ID": 16,
+    "THEMA": "Geld",
+    "SOUS-THEMES": "Dettes; Finances",
+    "VERSETS CLES": "Mattheüs 6:33; Hebreeën 13:5",
+    "IDEE CENTRALE": "La vraie sécurité ne vient pas de l’argent"
+  },
+  {
+    "ID": 17,
+    "THEMA": "Schuldgevoel",
+    "SOUS-THEMES": "Regrets; Honte",
+    "VERSETS CLES": "Jesaja 1:18; 1 Johannes 1:9",
+    "IDEE CENTRALE": "Dieu est prêt à pardonner"
+  },
+  {
+    "ID": 18,
+    "THEMA": "Vergeving",
+    "SOUS-THEMES": "Pardon divin et humain",
+    "VERSETS CLES": "Psalm 103:12; Lukas 15:11-24",
+    "IDEE CENTRALE": "Dieu pardonne pleinement"
+  },
+  {
+    "ID": 19,
+    "THEMA": "Religieuze teleurstelling",
+    "SOUS-THEMES": "Hypocrisie; Abus",
+    "VERSETS CLES": "Mattheüs 23:27-28; Johannes 17:17",
+    "IDEE CENTRALE": "Distinguer Dieu des erreurs humaines"
+  },
+  {
+    "ID": 20,
+    "THEMA": "Kerk en religie",
+    "SOUS-THEMES": "Églises; Religion",
+    "VERSETS CLES": "Johannes 4:23-24; Hebreeën 10:24-25",
+    "IDEE CENTRALE": "Dieu cherche des adorateurs sincères"
+  },
+  {
+    "ID": 21,
+    "THEMA": "God",
+    "SOUS-THEMES": "Existence; Créateur",
+    "VERSETS CLES": "Psalm 19:1; Romeinen 1:20",
+    "IDEE CENTRALE": "La création témoigne d’un Créateur"
+  },
+  {
+    "ID": 22,
+    "THEMA": "Jezus Christus",
+    "SOUS-THEMES": "Salut; Rançon",
+    "VERSETS CLES": "Johannes 17:3; Mattheüs 20:28",
+    "IDEE CENTRALE": "Jésus est envoyé par Dieu"
+  },
+  {
+    "ID": 23,
+    "THEMA": "Bijbel",
+    "SOUS-THEMES": "Inspiration; Fiabilité",
+    "VERSETS CLES": "2 Timotheüs 3:16-17; Romeinen 15:4",
+    "IDEE CENTRALE": "La Bible guide et encourage"
+  },
+  {
+    "ID": 24,
+    "THEMA": "Gebed",
+    "SOUS-THEMES": "Prière; Réponse de Dieu",
+    "VERSETS CLES": "Filippenzen 4:6-7; 1 Johannes 5:14",
+    "IDEE CENTRALE": "Dieu écoute les prières sincères"
+  },
+  {
+    "ID": 25,
+    "THEMA": "Wetenschap",
+    "SOUS-THEMES": "Science; Création",
+    "VERSETS CLES": "Romeinen 1:20; Prediker 3:11",
+    "IDEE CENTRALE": "Science et sens de la vie sont complémentaires"
+  },
+  {
+    "ID": 26,
+    "THEMA": "Koninkrijk van God",
+    "SOUS-THEMES": "Gouvernement divin",
+    "VERSETS CLES": "Daniël 2:44; Jesaja 9:6-7",
+    "IDEE CENTRALE": "Le Royaume résoudra les problèmes humains"
+  },
+  {
+    "ID": 27,
+    "THEMA": "Opstanding",
+    "SOUS-THEMES": "Vie future",
+    "VERSETS CLES": "Johannes 5:28-29; Handelingen 24:15",
+    "IDEE CENTRALE": "Dieu restaurera la vie"
+  },
+  {
+    "ID": 28,
+    "THEMA": "Waarheid",
+    "SOUS-THEMES": "Vérité; Relativisme",
+    "VERSETS CLES": "Johannes 17:17; Handelingen 17:11",
+    "IDEE CENTRALE": "La vérité peut être examinée"
+  },
+  {
+    "ID": 29,
+    "THEMA": "Vrijheid",
+    "SOUS-THEMES": "Libre arbitre; Choix",
+    "VERSETS CLES": "Jozua 24:15; Romeinen 12:2",
+    "IDEE CENTRALE": "Dieu respecte la liberté de choix"
+  },
+  {
+    "ID": 30,
+    "THEMA": "Zingeving",
+    "SOUS-THEMES": "But de la vie",
+    "VERSETS CLES": "Prediker 12:13; Jeremia 29:11",
+    "IDEE CENTRALE": "Dieu donne un sens à la vie"
+  }
+]
